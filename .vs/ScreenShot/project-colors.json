@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5cef0cf6-a617-4757-ae2f-a0589fcc2573": {
+      "ProjectGuid": "5cef0cf6-a617-4757-ae2f-a0589fcc2573",
+      "DisplayName": "ScreenShotClient",
+      "ColorIndex": 0
+    },
+    "59468a0a-731d-4155-8824-86245dbffb97": {
+      "ProjectGuid": "59468a0a-731d-4155-8824-86245dbffb97",
+      "DisplayName": "ScreenShotServer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
